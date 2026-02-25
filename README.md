@@ -1,6 +1,7 @@
 
 ## 💫 About Me:
-# About Me 👋<br><br>I’m a Data Analyst focused on turning messy data into clear business decisions. I work at the intersection of automation, analytics, and AI systems.<br><br> 
+# About Me 👋<br><br>
+I’m a Data Analyst focused on turning messy data into clear business decisions. I work at the intersection of automation, analytics, and AI systems.<br><br> 
 ## 🔭 I’m currently working on<br><br>
 Building automation workflows using n8n and ClawDBot<br><br>Developing a business website through vibe coding<br><br>Building a project-based app using React + CSS through vibe coding<br><br>Creating autonomous systems for admissions and decision flows<br><br>
 # 👯 I’m open to collaborate on<br><br>
