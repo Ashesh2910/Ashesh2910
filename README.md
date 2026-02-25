@@ -1,6 +1,20 @@
 
-# 💫 About Me:
-About Me 👋<br><br>I’m a Data Analyst focused on turning messy data into clear business decisions. I work at the intersection of automation, analytics, and AI systems.<br><br>🔭 I’m currently working on<br><br>Building automation workflows using n8n and ClawDBot<br><br>Developing a business website through vibe coding<br><br>Building a project-based app using React + CSS through vibe coding<br><br>Creating autonomous systems for admissions and decision flows<br><br>👯 I’m open to collaborate on<br><br>Automation systems for businesses<br><br>AI chatbot implementations<br><br>Workflow optimization projects<br><br>Data analytics and business intelligence dashboards<br><br>🤝 I’m open to freelance work in<br><br>Business process automation<br><br>AI chatbots (WhatsApp, web, internal tools)<br><br>Data & Business Analysis<br><br>Power BI dashboards<br><br>Looker Studio reporting<br><br>Tableau dashboards<br><br>End-to-end analytics solutions<br><br>🌱 I’m currently learning<br><br>Advanced automation architecture<br><br>Autonomous decision systems<br><br>AI wrappers and workflow intelligence<br><br>Scalable analytics pipelines<br><br>💬 Ask me about<br><br>Fraud detection systems<br><br>Churn analysis dashboards<br><br>Power BI + Python ML integrations<br><br>Designing complete decision trees for automation<br><br>Admission flow automation systems<br><br>⚡ Fun fact<br><br>I enjoy building systems that reduce human dependency by making processes autonomous and intelligent.<br><br>🚀 Recent Work<br><br>I recently built and deployed my portfolio using React + CSS through vibe coding:<br>👉 https://ashesh2910-portfolio-live.vercel.app/
+## 💫 About Me:
+# About Me 👋<br><br>I’m a Data Analyst focused on turning messy data into clear business decisions. I work at the intersection of automation, analytics, and AI systems.<br><br> 
+## 🔭 I’m currently working on<br><br>
+Building automation workflows using n8n and ClawDBot<br><br>Developing a business website through vibe coding<br><br>Building a project-based app using React + CSS through vibe coding<br><br>Creating autonomous systems for admissions and decision flows<br><br>
+# 👯 I’m open to collaborate on<br><br>
+Automation systems for businesses<br><br>AI chatbot implementations<br><br>Workflow optimization projects<br><br>Data analytics and business intelligence dashboards<br><br>
+## 🤝 I’m open to freelance work in<br><br>
+Business process automation<br><br>AI chatbots (WhatsApp, web, internal tools)<br><br>Data & Business Analysis<br><br>Power BI dashboards<br><br>Looker Studio reporting<br><br>Tableau dashboards<br><br>End-to-end analytics solutions<br><br>
+## 🌱 I’m currently learning<br><br>
+Advanced automation architecture<br><br>Autonomous decision systems<br><br>AI wrappers and workflow intelligence<br><br>Scalable analytics pipelines<br><br>
+## 💬 Ask me about<br><br>
+Fraud detection systems<br><br>Churn analysis dashboards<br><br>Power BI + Python ML integrations<br><br>Designing complete decision trees for automation<br><br>Admission flow automation systems<br><br>
+## ⚡ Fun fact<br><br>
+I enjoy building systems that reduce human dependency by making processes autonomous and intelligent.<br><br>
+## 🚀 Recent Work<br><br>
+I recently built and deployed my portfolio using React + CSS through vibe coding:<br>👉 https://ashesh2910-portfolio-live.vercel.app/
 
 
 ## 🌐 Socials:
